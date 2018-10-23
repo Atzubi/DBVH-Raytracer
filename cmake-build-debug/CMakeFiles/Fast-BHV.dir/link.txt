@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -msse3 -g   CMakeFiles/Fast-BHV.dir/RayTracerTest.cpp.o CMakeFiles/Fast-BHV.dir/BBox.cpp.o CMakeFiles/Fast-BHV.dir/BVH.cpp.o  -o Fast-BHV 

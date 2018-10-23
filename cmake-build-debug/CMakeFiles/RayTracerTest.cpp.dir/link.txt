@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -msse3 -g   CMakeFiles/RayTracerTest.cpp.dir/BBox.cpp.o CMakeFiles/RayTracerTest.cpp.dir/BVH.cpp.o  -o RayTracerTest.cpp -lpthread 
